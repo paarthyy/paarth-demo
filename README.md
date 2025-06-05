@@ -1,4 +1,4 @@
 # paarth-demo
 this is my first git repository
 <br>
-Author - Paarth Sehgal
+Author - Paarth Sehgall
